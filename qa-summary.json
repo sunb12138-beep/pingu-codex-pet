@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run",
+  "spritesheet": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/final/spritesheet-extended.webp",
+  "validation": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/final/validation-extended.json",
+  "chroma_despill": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/look-directions.png",
+  "direction_semantics": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/look-continuity.json",
+  "review": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/review.json",
+  "final_visual_qa": "/Users/sun/Documents/Codex/2026-07-11/xia/work/pingu-pet-v2-run/qa/final-visual-qa.json",
+  "package": "/Users/sun/.codex/pets/pingu"
+}
