@@ -49,10 +49,17 @@ spritesheet.webp
 ![Pingu 总览](contact-sheet.png)
 
 ### 动作示例
-![Pingu 跳跃](previews/jumping.gif)
 ![Pingu 失败](previews/failed.gif)
-![Pingu 向左](previews/running-left.gif)
+![Pingu 待机](previews/idle.gif)
+![Pingu 跳跃](previews/jumping.gif)
+![Pingu 检查](previews/review.gif)
+![Pingu 向左移动](previews/running-left.gif)
+![Pingu 向右移动](previews/running-right.gif)
+![Pingu 奔跑](previews/running.gif)
+![Pingu 等待](previews/waiting.gif)
+![Pingu 挥手](previews/waving.gif)
+
 
 ## 许可证
 
-如需公开发布，建议在这里补充你的许可证信息。
+未发布
