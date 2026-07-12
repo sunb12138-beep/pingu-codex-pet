@@ -45,9 +45,13 @@ spritesheet.webp
 
 ## 预览
 
-如果仓库里放了预览图，可以在这里补一张动图或 spritesheet 预览。
+### 总览
+![Pingu 总览](preview/contact-sheet.png)
 
-
+### 动作示例
+![Pingu 跳跃](preview/jumping.gif)
+![Pingu 失败](preview/failed.gif)
+![Pingu 向左](preview/running-left.gif)
 
 ## 许可证
 
